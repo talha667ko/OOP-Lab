@@ -1,0 +1,19 @@
+Account ID: 1020jhK
+You have Placed400.0from your account; your new balance: 4400.0
+You have Withdrawed105.0from your account; your new balance: 4295.0
+You have withdraw money: penalization of %5.
+You have Placed3000.0from your account; your new balance: 7295.0
+You have Withdrawed2100.0from your account; your new balance: 5195.0
+You have withdraw money: penalization of %5.
+You have Placed400.0from your account; your new balance: 4400.0
+You have Withdrawed105.0from your account; your new balance: 4295.0
+You have withdraw money: penalization of %5.
+You have Placed3000.0from your account; your new balance: 7295.0
+You have Withdrawed2100.0from your account; your new balance: 5195.0
+You have withdraw money: penalization of %5.
+You have Placed400.0from your account; your new balance: 4400.0
+You have Withdrawed105.0from your account; your new balance: 4295.0
+You have withdraw money: penalization of %5.
+You have Placed3000.0from your account; your new balance: 7295.0
+You have Withdrawed2100.0from your account; your new balance: 5195.0
+You have withdraw money: penalization of %5.
